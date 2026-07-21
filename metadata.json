@@ -1,0 +1,6 @@
+{
+  "name": "Baset imagen",
+  "description": "High-quality AI image enhancement and upscaling",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
